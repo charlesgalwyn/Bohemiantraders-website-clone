@@ -1,4 +1,4 @@
-# Bohemiantraders-website-clone
+# Bohemiantraders-website-Clone
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670347682821/AL5b9trwM.png?auto=compress,format&format=webp" alt='poster' />
 Created `Bohemiantraders.com` Clone
 This is our collaborative project with a team of 4 members here we have made a fully responsive react-redux e-commerce website clone with all CRUD-based functionality.
